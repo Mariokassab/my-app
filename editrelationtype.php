@@ -5,7 +5,7 @@
             ?>
         </header>
 <?php
-include_once("conn.conf.php");
+include_once("conn.conf.php");//test helo
 include_once("functions.php");
 $stmtgetdata = $dbh->prepare("select type_id,type_name from relation_types where type_id=:id");
 $stmtgetdata->bindParam(':id',$type_id);
