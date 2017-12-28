@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"soc",
+				"social_media"
+			],
+			[
+				"al",
+				"always"
+			],
+			[
+				"page-br",
+				"page-break-after"
+			],
+			[
+				"time",
+				"timeframes"
+			],
+			[
+				"delete",
+				"delete_flag"
+			],
+			[
+				"grou",
+				"group2"
+			],
+			[
+				"notifi",
+				"notification_text"
+			],
+			[
+				"cr",
+				"criteria_id"
+			],
+			[
+				"criteria",
+				"sphere_criterias"
+			],
+			[
+				"verific",
+				"verification_code"
+			],
+			[
+				"ve",
+				"verification_code"
+			],
+			[
+				"expertise_",
+				"expertise_id"
+			],
+			[
+				"jobs",
+				"jobs_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mario/Desktop/g/.gitignore",
+		"/C/wamp/www/marioyara/console/editcountry.php",
+		"/C/wamp/www/marioyara/console/editcompany.php",
+		"/C/wamp/www/marioyara/console/about_photos.php",
+		"/C/wamp/www/marioyara/console/assigned_privileges.php",
+		"/C/Users/Mario/Desktop/g/editrelationtype.php",
+		"/C/wamp/www/marioyara/console/functions.php",
+		"/C/Users/Mario/Desktop/PHPMailer_5.2.0/class.phpmailer.php",
+		"/C/wamp/www/marioyara/console/editsocial_media.php",
+		"/C/wamp/www/marioyara/console/social_media.php",
+		"/C/wamp/www/marioyara/console/action.php",
+		"/C/wamp/www/marioyara/console/php_apis/getprivileges.php",
+		"/C/wamp/www/marioyara/console/dlt/deletesocial_media.php",
+		"/C/wamp/www/marioyara/console/php_apis/getcities.php",
+		"/C/wamp/www/marioyara/console/users.php",
+		"/C/wamp/www/marioyara/console/collections.php",
+		"/C/wamp/www/marioyara/console/dlt/deletettype - Copy.php",
+		"/C/wamp/www/marioyara/console/dlt/deletecity.php",
+		"/C/wamp/www/marioyara/console/cities.php",
+		"/C/wamp/www/marioyara/console/edituser.php",
+		"/C/wamp/www/marioyara/console/invitations.php",
+		"/C/wamp/www/marioyara/console/timeframes.php",
+		"/C/wamp/www/marioyara/console/testmail.php",
+		"/C/wamp/www/marioyara/console/tags.php",
+		"/C/wamp/www/marioyara/console/sphere_criterias.php",
+		"/C/wamp/www/marioyara/console/privacy.php",
+		"/C/wamp/www/marioyara/console/menu.php",
+		"/C/wamp/www/marioyara/console/mail_settings.php",
+		"/C/wamp/www/marioyara/console/menu_items.php",
+		"/C/wamp/www/marioyara/console/notifications.php",
+		"/C/wamp/www/marioyara/console/notification_types.php",
+		"/C/wamp/www/marioyara/console/limelights.php",
+		"/C/wamp/www/marioyara/console/jobs.php",
+		"/C/wamp/www/marioyara/console/home.php",
+		"/C/wamp/www/marioyara/console/edittype.php",
+		"/C/wamp/www/marioyara/console/index.php",
+		"/C/wamp/www/marioyara/console/help.php",
+		"/C/wamp/www/marioyara/console/guide_book.php",
+		"/C/wamp/www/marioyara/console/getdata.php",
+		"/C/wamp/www/marioyara/console/expertises.php",
+		"/C/wamp/www/marioyara/console/eventfields.php",
+		"/C/wamp/www/marioyara/console/edittag.php",
+		"/C/wamp/www/marioyara/console/edittimeframe.php",
+		"/C/wamp/www/marioyara/console/edittempverification.php",
+		"/C/wamp/www/marioyara/console/editrelationtype.php",
+		"/C/wamp/www/marioyara/console/editparent_item.php",
+		"/C/wamp/www/marioyara/console/editprivilege.php",
+		"/C/wamp/www/marioyara/console/editmenu_item.php",
+		"/C/wamp/www/marioyara/console/editnotifications.php",
+		"/C/wamp/www/marioyara/console/editmail.php",
+		"/C/wamp/www/marioyara/console/editlimelight.php",
+		"/C/wamp/www/marioyara/console/editjob.php",
+		"/C/wamp/www/marioyara/console/editinvitation.php",
+		"/C/wamp/www/marioyara/console/editdesignation.php",
+		"/C/wamp/www/marioyara/console/editexpertise.php",
+		"/C/wamp/www/marioyara/console/editfield.php",
+		"/C/wamp/www/marioyara/console/editcriteria.php",
+		"/C/wamp/www/marioyara/console/companies.php",
+		"/C/wamp/www/marioyara/console/editcollection.php",
+		"/C/wamp/www/marioyara/console/editcity.php",
+		"/C/wamp/www/marioyara/console/designations.php",
+		"/C/wamp/www/marioyara/console/countries.php",
+		"/C/wamp/www/marioyara/console/about_us.php",
+		"/C/wamp/www/marioyara/console/php_apis/getmenu_items.php",
+		"/C/wamp/www/marioyara/console/conn.conf.php",
+		"/F/console/countries.php",
+		"/F/console/about_photos.php",
+		"/C/wamp/www/marioyara/console/fetchimage.php",
+		"/C/wamp/www/marioyara/console/source.php",
+		"/C/wamp/www/marioyara/console/getimage.php",
+		"/C/wamp/www/marioyara/console/logout.php",
+		"/C/Users/Mario/Downloads/about_us.php",
+		"/C/wamp/www/marioyara/console/footer.php",
+		"/C/wamp/www/marioyara/console/dlt/deleteuser.php",
+		"/C/wamp/www/marioyara/console/editfooter.php",
+		"/C/wamp/www/marioyara/console/tempverification.php",
+		"/C/wamp/www/marioyara/console/privileges.php",
+		"/C/wamp/www/marioyara/console/parent_items.php",
+		"/C/wamp/www/marioyara/console/terms.php",
+		"/C/Users/Mario/Desktop/console/collections.php",
+		"/C/wamp/www/marioyara/console/relation_types.php",
+		"/C/Users/Mario/AppData/Local/Temp/Temp1_To_Combine_Files.zip/privileges.php",
+		"/C/Users/Mario/AppData/Local/Temp/Temp1_To_Combine_Files.zip/menu_items.php",
+		"/C/Users/Mario/AppData/Local/Temp/Temp1_To_Combine_Files.zip/parent_items.php",
+		"/C/wamp/www/marioyara/console/nav.php",
+		"/C/Users/Mario/AppData/Local/Temp/Temp1_To_Combine_Files.zip/assigned_privileges.php",
+		"/C/wamp/www/marioyara/console/php_apis/getparent_items.php",
+		"/C/wamp/www/marioyara/console/php_apis/getprivileges - Copy.php",
+		"/C/Users/Mario/Downloads/getparent_items (1).php",
+		"/C/wamp/www/marioyara/console/php_apis/+.php",
+		"/C/Users/Mario/Downloads/assigned_privileges.php",
+		"/F/home.php",
+		"/F/nav.php",
+		"/C/wamp/www/marioyara/console/dlt/deleterelationtype.php",
+		"/C/wamp/www/marioyara/console/dlt/deleteprivilege.php",
+		"/C/Users/Mario/Downloads/mail_settings (2).php",
+		"/C/Users/Mario/Downloads/mail_settings (3).php",
+		"/C/Users/Mario/Downloads/testmail.php",
+		"/C/Users/Mario/Downloads/mail_settings (1).php",
+		"/C/Users/Mario/Downloads/mail_settings.php",
+		"/C/wamp/www/marioyara/console/dlt/deleteinvitation.php",
+		"/C/wamp/www/marioyara/console/dlt/deletemail.php",
+		"/C/wamp/www/marioyara/console/dlt/deletetag.php",
+		"/C/wamp/www/marioyara/console/dlt/deletenotification.php",
+		"/C/wamp/www/marioyara/console/dlt/deletetempverification.php",
+		"/C/wamp/www/marioyara/console/dlt/deletecountry.php",
+		"/C/wamp/www/marioyara/console/dlt/deletecriteria.php",
+		"/C/wamp/www/marioyara/console/dlt/deletetype.php",
+		"/C/wamp/www/marioyara/console/temp verification.php",
+		"/C/wamp/www/marioyara/console/editexpertise - Copy.php",
+		"/C/wamp/www/marioyara/console/header.php",
+		"/C/wamp/www/marioyara/console/scripts.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "g.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
